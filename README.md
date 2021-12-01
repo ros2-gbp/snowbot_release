@@ -1,3 +1,26 @@
+## snowbot_operating_system (melodic) - 0.0.2-1
+
+The packages in the `snowbot_operating_system` repository were released into the `melodic` distro by running `/usr/bin/bloom-release snowbot_operating_system -r melodic` on `Wed, 01 Dec 2021 20:27:21 -0000`
+
+The `snowbot_operating_system` package was released.
+
+Version of package(s) in repository `snowbot_operating_system`:
+
+- upstream repository: https://github.com/PickNikRobotics/snowbot_operating_system.git
+- release repository: https://github.com/PickNikRobotics/snowbot_release.git
+- rosdistro version: `0.0.1-1`
+- old version: `0.0.1-1`
+- new version: `0.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## snowbot_operating_system (galactic) - 0.1.1-1
 
 The packages in the `snowbot_operating_system` repository were released into the `galactic` distro by running `/usr/bin/bloom-release snowbot_operating_system -r galactic` on `Wed, 01 Dec 2021 20:21:16 -0000`
