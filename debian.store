@@ -1,1 +1,1 @@
-{"base": "23fd040", "parent": "debian/rolling/snowbot_operating_system", "previous": "d18dfc3", "trim": "", "trimbase": ""}
+{"base": "6304c69", "parent": "debian/humble/snowbot_operating_system", "previous": "a5e6c3b", "trim": "", "trimbase": ""}
