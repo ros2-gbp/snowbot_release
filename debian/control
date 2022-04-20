@@ -1,0 +1,12 @@
+Source: ros-humble-snowbot-operating-system
+Section: misc
+Priority: optional
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-cmake-clang-format <!nocheck>, ros-humble-ament-cmake-ros, ros-humble-geometry-msgs, ros-humble-pluginlib, ros-humble-rviz-common, ros-humble-rviz-rendering, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-snowbot-operating-system
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-ament-cmake-ros, ros-humble-geometry-msgs, ros-humble-pluginlib, ros-humble-rviz-common, ros-humble-rviz-rendering, ros-humble-ros-workspace
+Description: The weather outside is frightful
