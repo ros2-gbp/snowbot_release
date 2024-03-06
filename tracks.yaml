@@ -187,4 +187,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/PickNikRobotics/snowbot_operating_system.git
-    version: :{auto}
+    version: 0.1.2
+    version_saved: :{auto}
