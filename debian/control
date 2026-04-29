@@ -1,0 +1,12 @@
+Source: ros-lyrical-snowbot-operating-system
+Section: misc
+Priority: optional
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-cmake-clang-format <!nocheck>, ros-lyrical-ament-cmake-ros, ros-lyrical-geometry-msgs, ros-lyrical-pluginlib, ros-lyrical-rviz-common, ros-lyrical-rviz-rendering, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/snowbot_operating_system/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-snowbot-operating-system
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-ament-cmake-ros, ros-lyrical-geometry-msgs, ros-lyrical-pluginlib, ros-lyrical-rviz-common, ros-lyrical-rviz-rendering, ros-lyrical-ros-workspace
+Description: The weather outside is frightful
